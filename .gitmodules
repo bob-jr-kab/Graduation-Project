@@ -1,0 +1,9 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/bob-jr-kab/server_fireapp.git
+[submodule "dashboard"]
+	path = dashboard
+	url = https://github.com/bob-jr-kab/fire_department.git
+[submodule "mobile_app"]
+	path = mobile_app
+	url = https://github.com/bob-jr-kab/Fire-Alert-System_App.git
